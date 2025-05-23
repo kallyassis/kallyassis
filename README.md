@@ -1,7 +1,14 @@
 ## Olá! sou a Kalinka Assis👋
 
--Atualmente estudando na area de desenvovedor Full Stack 
--Tecnologias que já tenho conhecimento, HTML, CSS e JAVASCRIPT.
+- Atualmente estudando na area de desenvovedor Full Stack 
+- Tecnologias que já tenho conhecimento
+- HTML
+- CSS
+- JAVASCRIPT
+- NODE
+- BOOTSTRAP
+- SASS
+- GULP
 
 <div>
   <a href="https://github.com/kallyassis"></a>
