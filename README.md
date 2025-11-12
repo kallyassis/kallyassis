@@ -2,7 +2,7 @@
 
 Atualmente estudando na area de desenvovedor Full Stack 
 Tecnologias que já tenho conhecimento
-- HTML - CSS - JAVASCRIPT - NODE - BOOTSTRAP - SASS - GULP - REACT 
+- HTML - CSS - JavaScript - NODE - BOOTSTRAP - SASS/scss - GULP - REACT - TypeScript - PARCEL
 
 <div>
   <a href="https://github.com/kallyassis"></a>
