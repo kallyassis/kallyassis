@@ -6,8 +6,8 @@ Tecnologias que já tenho conhecimento
 
 <div>
   <a href="https://github.com/kallyassis"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kallyassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallyassis&layout=compact&lands_count=16&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kallyassis&theme=radical&_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallyassis&layout=compact&langs_count16&theme=radical">
 </div>
 
 ##
