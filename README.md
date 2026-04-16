@@ -2,7 +2,7 @@
 
 Atualmente estudando na area de desenvovedor Full Stack 
 Tecnologias que já tenho conhecimento
-- HTML - CSS - JavaScript - NODE - BOOTSTRAP - SASS/scss - GULP - REACT - TypeScript - PARCEL
+- HTML - CSS - JavaScript - NODE - BOOTSTRAP - SASS/scss - GULP - REACT - TypeScript - PARCEL - PYTHON - STYLED-COMPONENTS - FIGMA
 
 <div>
   <a href="https://github.com/kallyassis"></a>
@@ -13,14 +13,13 @@ Tecnologias que já tenho conhecimento
 ##
 
 <div style="display: inline_block"><br>
-   <img align="center" alt="Kally-HTML" height="100" width="70" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-   <img align="center" alt="Kally-CSS" height="50" width="60" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-   <img align="center" alt="Kally-Js" height="100" width="70" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-   <img align="center" alt="Kally-Js" height="100" width="70" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-   <img align="center" alt="Kally-Js" height="100" width="70" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-   <img align="center" alt="Kally-Js" height="100" width="150" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  
- </div>
+  <img align="center" alt="Kally-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="kally-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Kally-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Kally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Kally-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Kally-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
  ##
 
