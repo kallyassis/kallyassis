@@ -1,6 +1,6 @@
 ## Olá! sou a Kalinka Assis👋
 
-Atualmente estudando na area de desenvovedor Full Stack 
+Atualmente estudando na area de desenvovedor Full Stack.
 Tecnologias que já tenho conhecimento
 - HTML - CSS - JavaScript - NODE - BOOTSTRAP - SASS/scss - GULP - REACT - TypeScript - PARCEL - PYTHON - STYLED-COMPONENTS - FIGMA
 
